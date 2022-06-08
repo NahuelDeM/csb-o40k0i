@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nahueldem.github.io/csb-o40k0i/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nahueldem.github.io/csb-o40k0i/static/js/main.f39e736c.chunk.js",
+    "main.js.map": "https://nahueldem.github.io/csb-o40k0i/static/js/main.f39e736c.chunk.js.map",
+    "runtime-main.js": "https://nahueldem.github.io/csb-o40k0i/static/js/runtime-main.d9c5f792.js",
+    "runtime-main.js.map": "https://nahueldem.github.io/csb-o40k0i/static/js/runtime-main.d9c5f792.js.map",
+    "static/js/2.bd2118d1.chunk.js": "https://nahueldem.github.io/csb-o40k0i/static/js/2.bd2118d1.chunk.js",
+    "static/js/2.bd2118d1.chunk.js.map": "https://nahueldem.github.io/csb-o40k0i/static/js/2.bd2118d1.chunk.js.map",
+    "index.html": "https://nahueldem.github.io/csb-o40k0i/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nahueldem.github.io/csb-o40k0i/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bd2118d1.chunk.js.LICENSE.txt": "https://nahueldem.github.io/csb-o40k0i/static/js/2.bd2118d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9c5f792.js",
+    "static/js/2.bd2118d1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f39e736c.chunk.js"
+  ]
+}
